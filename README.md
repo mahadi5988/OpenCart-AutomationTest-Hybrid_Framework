@@ -130,5 +130,5 @@ Run the suite XML files from your IDE.
 
 ## 👤 Author
 
-**Mehedi Hasan**  
-SQA Automation Enthusiast
+**Mahadi Hasan**  
+
