@@ -5,7 +5,7 @@ It integrates multiple automation design patterns and tools to ensure scalabilit
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The framework automates key functional flows of the OpenCart application, including:
 
@@ -40,7 +40,7 @@ It follows a **Hybrid approach** combining:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 OpenCart-AutomationTest-Hybrid_Framework
@@ -116,7 +116,7 @@ Run the suite XML files from your IDE.
 
 ---
 
-## 📊 Reports & Logs
+##  Reports & Logs
 
 - Extent Reports → /reports/
 - TestNG Reports → /test-output/
@@ -124,7 +124,7 @@ Run the suite XML files from your IDE.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Mahadi Hasan**  
 
