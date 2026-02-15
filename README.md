@@ -1,4 +1,4 @@
-# 🧪 OpenCart Automation Testing – Hybrid Framework
+#  OpenCart Automation Testing – Hybrid Framework
 
 This project is a **Hybrid Test Automation Framework** developed for testing the OpenCart e-commerce web application.  
 It integrates multiple automation design patterns and tools to ensure scalability, maintainability, and reusability of test scripts.
@@ -25,7 +25,7 @@ It follows a **Hybrid approach** combining:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Tool / Technology | Purpose |
 |------------------|---------|
@@ -65,7 +65,7 @@ OpenCart-AutomationTest-Hybrid_Framework
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - ✔️ Page Object Model implementation  
 - ✔️ Data-Driven Testing using Excel  
@@ -78,7 +78,7 @@ OpenCart-AutomationTest-Hybrid_Framework
 
 ---
 
-## 🚀 Test Scenarios Covered
+##  Test Scenarios Covered
 
 | Test Case ID | Scenario |
 |--------------|----------|
@@ -91,7 +91,7 @@ OpenCart-AutomationTest-Hybrid_Framework
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Make sure you have installed:
 
@@ -103,12 +103,8 @@ Make sure you have installed:
 
 ---
 
-## ▶️ How to Run Tests
+##  How to Run Tests
 
-### Clone the Repository
-```
-git clone <your-repo-link>
-```
 
 ### Run via Maven
 ```
